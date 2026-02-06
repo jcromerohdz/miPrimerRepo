@@ -9,3 +9,12 @@ git push
 ```
 ## Nota:
 Si no me dice quien soy, entonces necesito restaurar la PC.
+
+# Python
+Una veriable en pytho es como sigue:
+```python
+nombre = "Christian"
+numero = 777
+flotante = 3.1416
+booleano = True
+```
