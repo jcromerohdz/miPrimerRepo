@@ -11,7 +11,7 @@ git push
 Si no me dice quien soy, entonces necesito restaurar la PC.
 
 # Python
-Una veriable en pytho es como sigue:
+Una veriable en python es como sigue:
 ```python
 nombre = "Christian"
 numero = 777
